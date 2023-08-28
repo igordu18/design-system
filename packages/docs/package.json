@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@design-system-soi/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,10 +13,10 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@design-system-soi/eslint-config": "*",
+    "@design-system-soi/react": "*",
+    "@design-system-soi/tokens": "*",
+    "@design-system-soi/ts-config": "*",
     "@storybook/addon-essentials": "^7.0.10",
     "@storybook/addon-interactions": "^7.0.10",
     "@storybook/addon-links": "^7.0.10",
